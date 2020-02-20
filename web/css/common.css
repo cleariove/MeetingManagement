@@ -1,0 +1,48 @@
+body
+{
+    margin: 10px auto;
+    width: 1000px;
+    background-color: lightgrey;
+}
+
+input[type="submit"]
+{
+    width: 200px;
+}
+
+input[type="button"]
+{
+    width: 200px;
+}
+
+
+.apply tr
+{
+    height: 40px;
+    vertical-align: center;
+}
+
+.apply td:first-child
+{
+    text-align:right;
+    width: 80px;
+}
+
+
+.listTitle
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.leftMenu
+{
+    float: left;
+    width: 200px;
+}
+
+.content
+{
+    float: right;
+    width: 800px;
+}
